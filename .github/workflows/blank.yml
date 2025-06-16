@@ -49,3 +49,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_projects: yes
           plugin_projects_limit: 4
+          plugins_errors_fatal: true
