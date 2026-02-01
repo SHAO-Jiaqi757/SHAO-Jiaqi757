@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">3rd-year PhD student at HKUST &amp; DKU.  Passionate about exploring LLM Multi-agent System, LLM Agent, decentralized ML models &amp; FL</div>
+                        <div class="introduction">3rd-year PhD student at HKUST.  Passionate about exploring LLM Multi-agent System, LLM Agent, decentralized ML models &amp; FL</div>
                     </section>
                 </div>
             </section>
@@ -1318,7 +1318,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2026, 21:47:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 22:29:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
