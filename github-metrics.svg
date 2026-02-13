@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="465.19074578111645" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="465.19074578111645" y="0" width="245.1041771066422" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="710.2949228877586" y="0" width="66.57766220091516" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="776.8725850886738" y="0" width="53.9449326019011" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="830.8175176905748" y="0" width="34.9150922945211" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="865.7326099850959" y="0" width="25.95375814016214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="891.686368125258" y="0" width="14.260101707102432" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="905.9464698323604" y="0" width="14.053530167639341" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="471.85441230547747" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="471.85441230547747" y="0" width="241.39409919178797" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="713.2485114972654" y="0" width="65.56989351630898" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="778.8184050135743" y="0" width="53.12838224593742" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="831.9467872595118" y="0" width="34.38659166125512" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="866.3333789207669" y="0" width="25.56090288155352" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="891.8942818023204" y="0" width="14.061467925797844" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="905.9557497281182" y="0" width="14.044250271881577" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -280,15 +280,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                 </div>
             </section>
@@ -1314,7 +1314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2026, 22:42:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2026, 23:45:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
